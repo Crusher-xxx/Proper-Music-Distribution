@@ -1,0 +1,259 @@
+[
+    {
+        "ID": 0,
+        "name": "Данил",
+        "gender": "m",
+        "creation_date": {
+            "year": 2019,
+            "month": 12,
+            "day": 12,
+            "hour": 3,
+            "minute": 16,
+            "second": 4,
+            "microsecond": 535907
+        },
+        "current_period": {
+            "money": 150,
+            "been_listening_to": {
+                "Sum 41": 40,
+                "Pendulum": 79,
+                "Imagine Dragons": 55
+            },
+            "subscription_activation_date": {
+                "year": 2020,
+                "month": 12,
+                "day": 12,
+                "hour": 3,
+                "minute": 16,
+                "second": 4,
+                "microsecond": 535907
+            },
+            "subscription_expiration_date": {
+                "year": 2021,
+                "month": 1,
+                "day": 11,
+                "hour": 3,
+                "minute": 16,
+                "second": 4,
+                "microsecond": 535907
+            }
+        },
+        "listening_history": [
+            {
+                "money": 150,
+                "been_listening_to": {
+                    "Sum 41": 40,
+                    "Pendulum": 13
+                },
+                "subscription_activation_date": {
+                    "year": 2020,
+                    "month": 8,
+                    "day": 12,
+                    "hour": 3,
+                    "minute": 16,
+                    "second": 4,
+                    "microsecond": 535907
+                },
+                "subscription_expiration_date": {
+                    "year": 2020,
+                    "month": 9,
+                    "day": 11,
+                    "hour": 3,
+                    "minute": 16,
+                    "second": 4,
+                    "microsecond": 535907
+                }
+            },
+            {
+                "money": 150,
+                "been_listening_to": {
+                    "Sum 41": 40,
+                    "Pendulum": 79
+                },
+                "subscription_activation_date": {
+                    "year": 2020,
+                    "month": 7,
+                    "day": 12,
+                    "hour": 3,
+                    "minute": 16,
+                    "second": 4,
+                    "microsecond": 535907
+                },
+                "subscription_expiration_date": {
+                    "year": 2020,
+                    "month": 8,
+                    "day": 11,
+                    "hour": 3,
+                    "minute": 16,
+                    "second": 4,
+                    "microsecond": 535907
+                }
+            },
+            {
+                "money": 150,
+                "been_listening_to": {
+                    "Sum 41": 40,
+                    "Pendulum": 79,
+                    "Imagine Dragons": 55
+                },
+                "subscription_activation_date": {
+                    "year": 2020,
+                    "month": 6,
+                    "day": 12,
+                    "hour": 3,
+                    "minute": 16,
+                    "second": 4,
+                    "microsecond": 535907
+                },
+                "subscription_expiration_date": {
+                    "year": 2020,
+                    "month": 7,
+                    "day": 11,
+                    "hour": 3,
+                    "minute": 16,
+                    "second": 4,
+                    "microsecond": 535907
+                }
+            }
+        ]
+    },
+    {
+        "ID": 1,
+        "name": "Дмитрий",
+        "gender": "m",
+        "creation_date": {
+            "year": 2020,
+            "month": 12,
+            "day": 12,
+            "hour": 3,
+            "minute": 36,
+            "second": 11,
+            "microsecond": 868197
+        },
+        "current_period": {
+            "money": 150,
+            "been_listening_to": {},
+            "subscription_activation_date": null,
+            "subscription_expiration_date": null
+        },
+        "listening_history": []
+    },
+    {
+        "ID": 2,
+        "name": "Никита",
+        "gender": "m",
+        "creation_date": {
+            "year": 2018,
+            "month": 12,
+            "day": 12,
+            "hour": 3,
+            "minute": 16,
+            "second": 4,
+            "microsecond": 535907
+        },
+        "current_period": {
+            "money": 150,
+            "been_listening_to": {
+                "Sum 41": 40,
+                "Pendulum": 79,
+                "Imagine Dragons": 55
+            },
+            "subscription_activation_date": {
+                "year": 2020,
+                "month": 11,
+                "day": 12,
+                "hour": 3,
+                "minute": 16,
+                "second": 4,
+                "microsecond": 535907
+            },
+            "subscription_expiration_date": {
+                "year": 2020,
+                "month": 12,
+                "day": 11,
+                "hour": 3,
+                "minute": 16,
+                "second": 4,
+                "microsecond": 535907
+            }
+        },
+        "listening_history": [
+            {
+                "money": 150,
+                "been_listening_to": {
+                    "Sum 41": 40,
+                    "Pendulum": 13
+                },
+                "subscription_activation_date": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 12,
+                    "hour": 3,
+                    "minute": 16,
+                    "second": 4,
+                    "microsecond": 535907
+                },
+                "subscription_expiration_date": {
+                    "year": 2020,
+                    "month": 4,
+                    "day": 11,
+                    "hour": 3,
+                    "minute": 16,
+                    "second": 4,
+                    "microsecond": 535907
+                }
+            },
+            {
+                "money": 150,
+                "been_listening_to": {
+                    "Sum 41": 40,
+                    "Pendulum": 79
+                },
+                "subscription_activation_date": {
+                    "year": 2020,
+                    "month": 2,
+                    "day": 12,
+                    "hour": 3,
+                    "minute": 16,
+                    "second": 4,
+                    "microsecond": 535907
+                },
+                "subscription_expiration_date": {
+                    "year": 2020,
+                    "month": 3,
+                    "day": 11,
+                    "hour": 3,
+                    "minute": 16,
+                    "second": 4,
+                    "microsecond": 535907
+                }
+            },
+            {
+                "money": 150,
+                "been_listening_to": {
+                    "Sum 41": 40,
+                    "Pendulum": 79,
+                    "Imagine Dragons": 55
+                },
+                "subscription_activation_date": {
+                    "year": 2020,
+                    "month": 1,
+                    "day": 12,
+                    "hour": 3,
+                    "minute": 16,
+                    "second": 4,
+                    "microsecond": 535907
+                },
+                "subscription_expiration_date": {
+                    "year": 2020,
+                    "month": 2,
+                    "day": 11,
+                    "hour": 3,
+                    "minute": 16,
+                    "second": 4,
+                    "microsecond": 535907
+                }
+            }
+        ]
+    }
+]
