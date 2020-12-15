@@ -3,9 +3,9 @@ import json
 
 
 class ListenerStorage:
-    def __init__(self):
+    def __init__(self, path):
         self.listeners: list[Listener.Listener] = []
-        self.path = r'D:\REPOS\ProperMusicDistribution\data.json'
+        self.path = path
 
     def __getitem__(self, item):
         return self.listeners[item]

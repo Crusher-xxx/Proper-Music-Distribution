@@ -148,6 +148,8 @@ class Listener:
         return report
 
     def add_listening_time(self, musician, listening_time):
+        if self.get_subscription_status() != 'active':
+            return
         if musician in self.current_period.been_listening_to:
             self.current_period.been_listening_to[musician] += listening_time
         else:
