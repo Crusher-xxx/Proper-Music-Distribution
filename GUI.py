@@ -3,6 +3,7 @@ import tkinter.messagebox
 from tkinter import ttk
 import ListenerStorage
 import Listener
+import pathlib
 
 
 class UserSelection:  # Страница авторизации
@@ -175,7 +176,7 @@ if __name__ == '__main__':
     root.title('Proper Music Distribution')  # Заголовок окна
     # root.geometry('800x600')  # Задать ширину и высоту окна
 
-    listeners = ListenerStorage.ListenerStorage(r'D:\REPOS\ProperMusicDistribution\data.json')
+    listeners = ListenerStorage.ListenerStorage(pathlib.Path(__file__).parent / 'data.json')
     listeners.load()
 
     tracks = ['Sum 41', 'Pendulum', 'Slipknot', 'Eskimo Callboy', 'Oomph!']
